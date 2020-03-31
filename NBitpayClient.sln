@@ -5,8 +5,8 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBitpayClient", "NBitpayClient\NBitpayClient.csproj", "{7C0219AC-CBE1-4C37-8374-DF787F62B5E8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBitpayClient.Tests", "NBitpayClient.Tests\NBitpayClient.Tests.csproj", "{87B2E1E0-4113-4A22-BEB4-CCCD7299A8AD}"
-EndProject
+#Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBitpayClient.Tests", "NBitpayClient.Tests\NBitpayClient.Tests.csproj", "{87B2E1E0-4113-4A22-BEB4-CCCD7299A8AD}"
+#EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
